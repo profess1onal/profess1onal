@@ -11,4 +11,4 @@ I'm Police, I can code javascript and lua. I work on a bot. You can invite it wi
 [My Server](https://discord.gg/KEdAjBc)
 
 ## Other Info
-My preferred theme in VS Code is material.
+My preferred theme in Visual Studio Code is material.
