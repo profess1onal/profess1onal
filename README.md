@@ -9,6 +9,3 @@ I'm Police, I can code javascript and lua. I work on a bot. You can invite it wi
 ## Invites
 [My Bot](https://discord.com/oauth2/authorize?client_id=484627899807432707&scope=bot&permissions=2146958847) |
 [My Server](https://discord.gg/KEdAjBc)
-
-## Other Info
-My preferred theme in Visual Studio Code is material.
