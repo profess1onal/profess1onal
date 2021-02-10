@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-I'm Police, I can code javascript and lua. I work on a bot. You can invite it with a link mentioned something in this file.
+Fuck
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=PolicePocholo&count_private=true&show_icons=true&theme=vue-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolicePocholo&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
