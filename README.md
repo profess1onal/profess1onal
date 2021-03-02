@@ -1,6 +1,30 @@
 ### Hi there 👋
 i make stuff
-(but also break stuff)
+```js
+const PolicePocholo = {
+    pronouns: "Attack Helicopter",
+    site: "https://www.policepocholo.tk/",
+    code: ["Javascript", "HTML"],
+    askMeAbout: ["programming", "bot development"],
+    technologies: {
+        discordBot: ["PolicePocholo:tm:"],
+        frontEnd: {
+            js: ["Nuxt"],
+        },
+        backEnd: {
+            js: ["node", "Discord.js"]
+        },
+        databases: ["mongo", "quick.db"]
+        },
+    currentFocus: "Life",
+    funFact: `
+    any """free""" hosting is either:
+    a) not suitable for hosting
+    b) not intended to be used for hosting
+    c) not actually free
+    `
+};
+```
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=PolicePocholo&count_private=true&show_icons=true&theme=vue-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolicePocholo&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
