@@ -9,7 +9,7 @@ const PolicePocholo = {
     technologies: {
         discordBot: ["PolicePocholo:tm:"],
         frontEnd: {
-            js: ["Nuxt"],
+            js: ["Nuxt"], // not a lot :troll:
         },
         backEnd: {
             js: ["node", "Discord.js"]
