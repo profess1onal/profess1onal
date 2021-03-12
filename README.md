@@ -8,14 +8,10 @@ const PolicePocholo = {
     askMeAbout: ["programming", "bot development"],
     technologies: {
         discordBot: ["PolicePocholo:tm:"],
-        frontEnd: {
-            js: ["Nuxt"], // not a lot :troll:
-        },
         backEnd: {
             js: ["node", "Discord.js"]
         },
-        databases: ["mongo", "quick.db"]
-        },
+    },
     currentFocus: "Life",
     funFact: `
     any """free""" hosting is either:
