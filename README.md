@@ -1,13 +1,12 @@
 ### Hi there 👋
-i make stuff
 ```js
-const PolicePocholo = {
+const ac = {
     pronouns: "Attack Helicopter",
-    site: "https://www.policepocholo.tk/",
+    site: "non existent",
     code: ["Javascript", "HTML"],
     askMeAbout: ["programming", "bot development"],
     technologies: {
-        discordBot: ["PolicePocholo:tm:"],
+        discordBot: ["in the making, soon:tm:"],
         backEnd: {
             js: ["node", "Discord.js"]
         },
@@ -21,6 +20,10 @@ const PolicePocholo = {
     `
 };
 ```
+# to do:
+- develop discord bot
+- update my github profile, outdated as hell
+
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=PolicePocholo&count_private=true&show_icons=true&theme=vue-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolicePocholo&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
