@@ -2,7 +2,7 @@
 ```js
 const ac = {
     pronouns: "Attack Helicopter",
-    site: "non existent",
+    site: "profess1onal.club",
     code: ["Javascript", "HTML"],
     askMeAbout: ["programming", "bot development"],
     technologies: {
