@@ -1,17 +1,18 @@
-### Hi there 👋
+### well hello there fellow mortal
+
 ```js
-const ac = {
+const profess1onal = {
     pronouns: "Attack Helicopter",
     site: "profess1onal.club",
-    code: ["Javascript", "HTML"],
-    askMeAbout: ["programming", "bot development"],
+    code: ["Javascript", "Lua"],
+    askMeAbout: ["programming", "life"],
     technologies: {
         discordBot: ["in the making, soon:tm:"],
         backEnd: {
             js: ["node", "Discord.js"]
         },
     },
-    currentFocus: "Life",
+    currentFocus: "lifef",
     funFact: `
     any """free""" hosting is either:
     a) not suitable for hosting
@@ -21,8 +22,7 @@ const ac = {
 };
 ```
 # to do:
-- develop discord bot
-- update my github profile, outdated as hell
+- rework profess1onal.club when i release atlas
 
 ## Invites
-[My Server](https://discord.gg/KEdAjBc)
+[My Server](https://discord.profess1onal.club)
