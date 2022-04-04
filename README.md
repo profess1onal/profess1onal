@@ -12,7 +12,7 @@ const profess1onal = {
             js: ["node", "Discord.js"]
         },
     },
-    currentFocus: "lifef",
+    currentFocus: "life",
     funFact: `
     any """free""" hosting is either:
     a) not suitable for hosting
