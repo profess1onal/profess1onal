@@ -4,7 +4,7 @@
 const profess1onal = {
     pronouns: "Attack Helicopter",
     site: "profess1onal.club",
-    code: ["Javascript", "Lua"],
+    code: ["Javascript", "Lua"], // main language: lua
     askMeAbout: ["programming", "life"],
     technologies: {
         discordBot: ["in the making, soon:tm:"],
