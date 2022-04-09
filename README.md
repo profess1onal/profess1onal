@@ -21,7 +21,6 @@ const profess1onal = {
     `
 }
 ```
-!(My Stats)[https://github-readme-stats.vercel.app/api?username=profess1onal&count_private=true&show_icons=true&theme=vue-dark]
 
 ## Invites
 [My Server](https://discord.profess1onal.club)
