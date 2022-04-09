@@ -20,14 +20,6 @@ const profess1onal = {
     c) not actually free
     `
 }
-
-// names format: [username, nicknames]
-
-const names = {
-    one: ["PolicePocholo", "Police"],
-    two: ["ac", "ac/dc"], // still in use for discord
-    three: ["profess1onal", "pro"]
-}
 ```
 # to do:
 - rework profess1onal.club when i release atlas
