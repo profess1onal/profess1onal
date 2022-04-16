@@ -1,26 +1,21 @@
-### well hello there fellow mortal
-
-```js
-const profess1onal = {
-    pronouns: "Attack Helicopter",
-    site: "profess1onal.club",
-    code: ["Javascript", "Lua"], // main language: lua
-    askMeAbout: ["programming", "life"],
-    technologies: {
-        discordBot: ["in the making, soon:tm:"],
-        backEnd: {
-            js: ["node", "Discord.js"]
-        },
-    },
-    currentFocus: "life",
-    funFact: `
-    any """free""" hosting is either:
-    a) not suitable for hosting
-    b) not intended to be used for hosting
-    c) not actually free
-    `
+# profess1onal
+```lua
+local profess1onal = {
+    pronouns = { "attack helicopter", "attack", "helicopter" },
+    languages = { "lua", "js" },
+    currentFocus = "AtlasHub",
+    
+    funFact = [[
+        any """free""" hosting is either:
+        a) not suitable for hosting
+        b) not intended to be used for hosting
+        c) not actually free
+    ]]
 }
 ```
 
-## Invites
+## who am i?
+good question, but then again, who are you?
+
+## links
 [My Server](https://discord.profess1onal.club)
