@@ -14,8 +14,8 @@ local profess1onal = {
 }
 ```
 
-## who am i?
-good question, but then again, who are you?
+## stats
+[![stats](https://github-readme-stats.vercel.app/api?username=profess1onal)](https://github.com/anuraghazra/github-readme-stats)
 
 ## links
 [My Server](https://discord.profess1onal.club)
