@@ -15,7 +15,7 @@ local profess1onal = {
 ```
 
 ## stats
-[![stats](https://github-readme-stats.vercel.app/api?username=profess1onal)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://github-readme-stats.vercel.app/api?username=profess1onal&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## links
 [My Server](https://discord.profess1onal.club)
