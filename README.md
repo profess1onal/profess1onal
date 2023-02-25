@@ -3,7 +3,7 @@
 local profess1onal = {
     pronouns = { "attack helicopter", "attack", "helicopter" },
     languages = { "lua", "js" },
-    currentFocus = "AtlasHub",
+    currentFocus = "life",
     
     funFact = [[
         any """free""" hosting is either:
