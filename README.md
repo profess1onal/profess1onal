@@ -2,8 +2,8 @@
 ```lua
 local profess1onal = {
     pronouns = { "attack helicopter", "attack", "helicopter" },
-    languages = { "lua", "js" },
-    currentFocus = "life",
+    languages = { "lua", "js", "odin", "python", "html", "css" },
+    currentFocus = "prometheus productions",
     
     funFact = [[
         any """free""" hosting is either:
