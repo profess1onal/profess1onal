@@ -1,9 +1,9 @@
 # profess1onal
 ```lua
 local profess1onal = {
-    pronouns = { "attack helicopter", "attack", "helicopter" },
+    pronouns = { "he", "him" },
     languages = { "lua", "js", "odin", "python", "html", "css" },
-    currentFocus = "prometheus productions",
+    currentFocus = "aura softworks - game studio",
     
     funFact = [[
         any """free""" hosting is either:
@@ -18,4 +18,4 @@ local profess1onal = {
 [![stats](https://github-readme-stats.vercel.app/api?username=profess1onal&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## links
-[Twitter](https://twitter.com/profess1onal0)
+[Website](https://aura-softworks.lol)
